@@ -123,5 +123,5 @@ HealthVector is designed as a preventive intelligence assistant — not a medica
 
 ---
 
-## 📊 Project Structure
+
 
