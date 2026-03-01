@@ -1,73 +1,127 @@
-# Welcome to your Lovable project
+# 🧠 HealthVector  
+### AI Leading Your Wellness
 
-## Project info
+![Next.js](https://img.shields.io/badge/Next.js-Framework-black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue)
+![AI Powered](https://img.shields.io/badge/AI-Predictive-orange)
+![AMD Accelerated](https://img.shields.io/badge/AMD-Accelerated-red)
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+HealthVector is a predictive health intelligence platform that detects early biological **health drift** across multiple body systems before clinical diagnosis.
 
-## How can I edit this code?
+It transforms fragmented health data into actionable foresight — shifting healthcare from reactive treatment to preventive intelligence.
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🚀 Overview
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+HealthVector integrates wearable signals, lab reports, and lifestyle inputs into a centralized AI Drift Engine that:
 
-Changes made via Lovable will be committed automatically to this repo.
+- Detects cross-system anomalies  
+- Computes multi-disease risk vectors  
+- Forecasts long-term health trajectory  
+- Generates personalized preventive recommendations  
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🩺 Targeted Conditions
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+HealthVector focuses on early detection and risk modeling for:
 
-Follow these steps:
+- Non-Alcoholic Fatty Liver Disease (NAFLD)  
+- Sleep Apnea (Undiagnosed in Young Adults)  
+- Early Chronic Kidney Disease  
+- Polycystic Ovary Syndrome (PCOS)  
+- Autonomic Dysfunction (POTS)  
+- Chronic Inflammation  
+- Early Cognitive Decline  
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🧠 Core Features
 
-# Step 3: Install the necessary dependencies.
-npm i
+- Health Drift Intelligence Engine  
+- Cross-System Risk Modeling  
+- Predictive Health Trajectory Visualization  
+- Scenario Simulation (Lifestyle Impact Forecasting)  
+- Personalized Preventive Plans  
+- Real-Time Health Dashboard  
+- Continuous Monitoring Loop  
+- AMD-Accelerated AI Inference  
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## 🏗 Technical Architecture
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+HealthVector follows a layered system design:
 
-**Use GitHub Codespaces**
+### 1️⃣ User Layer
+- Web Application (Next.js)
+- Wearable Integrations
+- Secure Lab Upload
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+### 2️⃣ Data Ingestion Layer
+- API Gateway
+- Authentication Service
+- Data Validation & Normalization
 
-## What technologies are used for this project?
+### 3️⃣ AI Core Layer
+- Cross-System Pattern Analyzer
+- Multi-Disease Modeling Engine
+- Risk Vector Scoring
+- Predictive Trajectory Forecasting
+- Scenario Simulation Engine
 
-This project is built with:
+### 4️⃣ Intelligence Output Layer
+- Unified Risk Score Generator
+- Alert Engine
+- Prevention Recommender
+- Health Projection System
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## ⚡ AMD Acceleration
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+HealthVector leverages AMD technologies for optimized AI performance:
 
-## Can I connect a custom domain to my Lovable project?
+- AMD Ryzen AI (Edge Inference)
+- AMD ROCm Stack
+- AMD Instinct GPU (Parallel Modeling)
+- ONNX Runtime (Hardware Optimized)
 
-Yes, you can!
+This enables real-time multi-disease modeling with low latency and improved efficiency.
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## 🛠 Tech Stack
+
+### Frontend
+Next.js, TypeScript, TailwindCSS, Framer Motion, ECharts
+
+### Backend
+Node.js, NestJS, tRPC, WebSockets
+
+### AI / ML
+Python, PyTorch, XGBoost, Prophet, ONNX Runtime
+
+### Database
+PostgreSQL, Prisma ORM, TimescaleDB, Redis
+
+### Cloud & DevOps
+AWS, Docker, Kubernetes, GitHub Actions
+
+---
+
+## 🔐 Security & Privacy
+
+- End-to-End Encryption
+- Secure Authentication (OAuth / JWT)
+- Role-Based Access Control
+- Privacy-First Architecture
+- Non-Diagnostic Positioning
+
+HealthVector is designed as a preventive intelligence assistant — not a medical diagnostic tool.
+
+---
+
+## 📊 Project Structure
+
