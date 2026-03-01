@@ -1,4 +1,4 @@
-# 🧠 HealthVector  
+#  HealthVector  
 ### AI Leading Your Wellness
 
 ![Next.js](https://img.shields.io/badge/Next.js-Framework-black)
@@ -12,7 +12,7 @@ It transforms fragmented health data into actionable foresight — shifting heal
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 HealthVector integrates wearable signals, lab reports, and lifestyle inputs into a centralized AI Drift Engine that:
 
@@ -23,7 +23,7 @@ HealthVector integrates wearable signals, lab reports, and lifestyle inputs into
 
 ---
 
-## 🩺 Targeted Conditions
+##  Targeted Conditions
 
 HealthVector focuses on early detection and risk modeling for:
 
@@ -37,7 +37,7 @@ HealthVector focuses on early detection and risk modeling for:
 
 ---
 
-## 🧠 Core Features
+##  Core Features
 
 - Health Drift Intelligence Engine  
 - Cross-System Risk Modeling  
@@ -50,28 +50,28 @@ HealthVector focuses on early detection and risk modeling for:
 
 ---
 
-## 🏗 Technical Architecture
+## Technical Architecture
 
 HealthVector follows a layered system design:
 
-### 1️⃣ User Layer
+### 1️ User Layer
 - Web Application (Next.js)
 - Wearable Integrations
 - Secure Lab Upload
 
-### 2️⃣ Data Ingestion Layer
+### 2️ Data Ingestion Layer
 - API Gateway
 - Authentication Service
 - Data Validation & Normalization
 
-### 3️⃣ AI Core Layer
+### 3️ AI Core Layer
 - Cross-System Pattern Analyzer
 - Multi-Disease Modeling Engine
 - Risk Vector Scoring
 - Predictive Trajectory Forecasting
 - Scenario Simulation Engine
 
-### 4️⃣ Intelligence Output Layer
+### 4️ Intelligence Output Layer
 - Unified Risk Score Generator
 - Alert Engine
 - Prevention Recommender
@@ -79,7 +79,7 @@ HealthVector follows a layered system design:
 
 ---
 
-## ⚡ AMD Acceleration
+##  AMD Acceleration
 
 HealthVector leverages AMD technologies for optimized AI performance:
 
@@ -92,7 +92,7 @@ This enables real-time multi-disease modeling with low latency and improved effi
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 Next.js, TypeScript, TailwindCSS, Framer Motion, ECharts
@@ -111,7 +111,7 @@ AWS, Docker, Kubernetes, GitHub Actions
 
 ---
 
-## 🔐 Security & Privacy
+##  Security & Privacy
 
 - End-to-End Encryption
 - Secure Authentication (OAuth / JWT)
